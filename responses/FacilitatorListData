@@ -1,0 +1,43 @@
+{
+    "code": 0,
+    "identificationCode": 0,
+    "typeData": [
+        {
+            " id": 8,
+            "typeName": "保洁服务",
+            " isPerson ": 0
+        },
+        {
+            " id": 9,
+            "typeName": "月嫂",
+            "isPerson": 1
+        }
+    ],
+    "countyData": [
+        {
+            "countyName": "大东区"
+        },
+        {
+            "countyName": "和平区"
+        }
+    ],
+    "facilitatorPageCount": 1,
+    "facilitatorData": [
+        {
+            "id": 25,
+            "facilitatorName": "管婆魅力店",
+            "facilitatorID": "guanpoer001",
+            "contactAddress": "辽宁省沈阳市铁西区西一街201号",
+            "facilitatorLogo": "http://59.46.2.105:8080/FamilyServiceSystem/MobileFacilitatorInfoAction?xxxxxxxxx"
+        },
+        {
+            "id": 28,
+            "facilitatorName": "管婆魅力店",
+            "facilitatorID": "guanpoer001",
+            "contactAddress": "辽宁省沈阳市铁西区西一街201号",
+            "facilitatorLogo": "http://59.46.2.105:8080/FamilyServiceSystem/MobileFacilitatorInfoAction?xxxxxxxxx"
+        }
+    ],
+    "servantPageCount": 0,
+    "servantData": ""
+}
